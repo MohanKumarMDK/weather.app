@@ -167,4 +167,8 @@
     margin-left: 10px;
     margin-right: 10px;
   }
+  .weather-app {
+    width: 25rem;
+    height: 50rem;
+    }
 }
