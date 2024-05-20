@@ -12,6 +12,7 @@
   margin-top: -9rem;
 }
 
+
 .weather-app {
   width: 35rem;
   height: 60rem;
@@ -124,6 +125,7 @@
   bottom: 22%;
   font-size: 1.6rem;
   color: #484569;
+  padding-bottom: 0.8rem;
 }
 
 .weather-data {
